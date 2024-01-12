@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align='center'>
+  <b>Hi 👋, I'm Dalri</b><br>
 
-<!--
-**Dalri05/Dalri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
 
-Here are some ideas to get you started:
+◦ They fear the Dalri!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◦ Dalri @github
+
+```
+```csharp
+
+• 🤖 Software Automation.
+• 👨🏻‍💻 Learning Web development.
+• 📓 Studying software engineering.
+• 🌟 Main languages: C# and PY.
+```
+
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+--------------------------------------
+										
+ <p align="center"> Hi, I’m @Dalri05
+
+--------------------------------------
