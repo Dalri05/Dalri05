@@ -11,7 +11,7 @@
 ```csharp
 
 • 🤖 Software Automation.
-• 👨🏻‍💻 Learning Software Automation.
+• 👨🏻‍💻 Learning Mobile Development and Java.
 • 📓 Studying software engineering.
 • 🌟 Main languages: C# and PY.
 ```
@@ -29,7 +29,8 @@
   <img align="center" alt="Dalri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dalri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dalri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Dalri-Flask" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png">
+  <img align="center" alt="Dalri-Flask" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png">
+  <img align="center" alt="Dalri-Flask" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 </div>
 
  ### Contact :
