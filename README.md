@@ -11,7 +11,7 @@
 ```csharp
 
 • 🤖 Software Automation.
-• 👨🏻‍💻 Learning Mobile Development and Java.
+• 👨🏻‍💻 Learning Web Development and Java.
 • 📓 Studying software engineering.
 • 🌟 Main languages: C# and PY.
 ```
