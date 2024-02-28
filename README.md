@@ -11,13 +11,13 @@
 ```csharp
 
 • 🤖 Software Automation.
-• 👨🏻‍💻 Learning Web Development and Java.
+• 👨🏻‍💻 Learning Java and SQL.
 • 📓 Studying software engineering.
 • 🌟 Main languages: C# and PY.
 ```
 
 
-### Languages :
+### Languages and technologies :
 <div>
   <a href="https://github.com/Dalri05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dalri05&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java,aws,mysql,linux,vscode,visualstudio" />
 </div>
 
  ### Contact :
