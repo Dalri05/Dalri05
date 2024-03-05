@@ -25,7 +25,7 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java,aws,mysql,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java,mysql,linux,vscode,visualstudio" />
 </div>
 
  ### Contact :
