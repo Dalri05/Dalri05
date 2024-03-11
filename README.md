@@ -3,8 +3,6 @@
 
 ```py
 
-◦ They fear the Dalri!
-
 ◦ Dalri @github
 
 ```
