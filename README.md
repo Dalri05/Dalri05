@@ -23,13 +23,12 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java,mysql,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,flask,java,mysql,c,linux,vscode,visualstudio" />
 </div>
 
  ### Contact :
  
 <div> 
-  <a href="https://instagram.com/joao.dlr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "joao.dalri05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-dalri-b0a753291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	
