@@ -9,9 +9,9 @@
 ```csharp
 
 • 🤖 Software Automation.
-• 👨🏻‍💻 Learning Java and SQL.
+• 👨🏻‍💻 Learning Java.
 • 📓 Studying software engineering.
-• 🌟 Main languages: C# and PY.
+• 🌟 Main languages: C#, PY and SQL.
 ```
 
 
