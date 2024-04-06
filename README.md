@@ -9,7 +9,7 @@
 ```csharp
 
 • 🤖 Software Developer.
-• 👨🏻‍💻 Learning Java.
+• 👨🏻‍💻 Learning Golang.
 • 📓 Studying software engineering.
 • 🌟 Main languages: Java, C# and SQL.
 ```
@@ -23,7 +23,7 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,java,html,css,golang,flask,fastapi,dotnet,mysql,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,php,coffeescript,angular,golang,flask,fastapi,dotnet,mysql,postman,linux" />
 </div>
 
  ### Contact :
