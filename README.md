@@ -11,7 +11,7 @@
 • 🤖 Software Developer.
 • 👨🏻‍💻 Learning Java.
 • 📓 Studying software engineering.
-• 🌟 Main languages: C#, PY and SQL.
+• 🌟 Main languages: Java, C# and SQL.
 ```
 
 
