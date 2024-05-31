@@ -9,7 +9,7 @@
 ```csharp
 
 • 🤖 Software Developer.
-• 👨🏻‍💻 Learning java.
+• 👨🏻‍💻 Learning about docker.
 • 📓 Studying software engineering.
 • 🌟 Main languages: Java, C# and SQL.
 ```
