@@ -23,7 +23,7 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,java,py,coffeescript,angular,spring,flask,postgres,dotnet,mysql,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,coffeescript,angular,spring,flask,postgres,dotnet,mysql,postman,docker,linux" />
 </div>
 
  ### Contact :
