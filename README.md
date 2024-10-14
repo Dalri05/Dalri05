@@ -22,7 +22,7 @@
 </div>
 	  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,angular,postgres,mysql,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,angular,postgres,mysql,docker,kafka,redis" />
 </div>
 
  ### Contact :
